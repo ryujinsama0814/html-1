@@ -1,0 +1,15 @@
+h1 {
+  font-size:60px; text-align: center;
+  border-bottom: 1px solid green; margin: 0; padding-bottom: 20px;
+}
+#mode ul {
+  border-right: 1px solid green;
+  width: 130px; margin: 0; padding-top: 20px;
+}
+#mode {
+  display: grid;
+  grid-template-columns: 190px 1fr;
+}
+#mode #modde {
+  padding-top: 20px
+}
